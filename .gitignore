@@ -1,0 +1,14 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+s# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.metadata/
+
+# Maven
+target/
